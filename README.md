@@ -1,7 +1,4 @@
 
-<div align="center">
-
-</div>
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=300&section=header&text=Daehee%20Kang&fontSize=90&fontColor=FFFFFF)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehee719&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
