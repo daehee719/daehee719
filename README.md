@@ -1,6 +1,8 @@
  <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=300&section=header&text=Hello%20World&fontSize=90&fontColor=FFFFFF)
+ 
+ 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90)
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehee719&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![daehee719's github stats](https://github-readme-stats.vercel.app/api?username=daehee719&show_icons=true&theme=tokyonight)
 
