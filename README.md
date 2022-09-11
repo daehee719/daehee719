@@ -1,17 +1,45 @@
+ <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=300&section=header&text=Daehee%20Kang&fontSize=90&fontColor=FFFFFF)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehee719&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![daehee719's github stats](https://github-readme-stats.vercel.app/api?username=daehee719&show_icons=true&theme=tokyonight)
+
+# - 🔭 I’m currently working on
+
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+# - 🤔 I use these Language
+
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# - 📫 How to reach me
+
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daehee719@gmail.com)](mailto:daehee719@gmail.com)
+   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=[https://www.facebook.com/zzsza](https://www.facebook.com/profile.php?id=100014056474342))]([https://www.facebook.com/zzsza](https://www.facebook.com/profile.php?id=100014056474342))
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=daehee719&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **daehee719/daehee719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
