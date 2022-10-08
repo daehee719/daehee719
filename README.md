@@ -26,6 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 # - 📫 How to reach me
 
+
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daehee719@gmail.com)](mailto:daehee719@gmail.com)
   <a href="https://www.instagram.com/i_m_eogml/">
     <img 
