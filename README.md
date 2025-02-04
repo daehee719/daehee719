@@ -36,7 +36,7 @@
  
  
  자소서
- https://www.notion.so/a1102af7a8a94c68b5a8fcf4c2054176
+ 노션 링크
 
 <!--
 **daehee719/daehee719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
