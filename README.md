@@ -3,7 +3,8 @@
  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehee719&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehee719&size_weight=0.5&count_weight=0.5)
+
 ![daehee719's github stats](https://github-readme-stats.vercel.app/api?username=daehee719&show_icons=true&theme=tokyonight)
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehee719)](https://solved.ac/daehee719/)
