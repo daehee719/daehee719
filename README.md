@@ -3,7 +3,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehee719&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehee719&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ![daehee719's github stats](https://github-readme-stats.vercel.app/api?username=daehee719&show_icons=true&theme=tokyonight)
  
