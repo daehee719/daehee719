@@ -1,7 +1,7 @@
  <div align="center">
  
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요%20강대희입니다.&fontSize=90)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehee719&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
